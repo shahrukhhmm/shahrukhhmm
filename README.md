@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, AWS, WordPress**
 
-- 💬 Ask me about **Laravel, PHP, MYSQL**
+- 💬 Ask me about **Laravel, PHP, MYSQL, MERN, AWS**
 
 - 📫 How to reach me **shahrukh862001@gmail.com**
 
