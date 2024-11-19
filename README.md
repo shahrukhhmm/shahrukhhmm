@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Mehmood Malik</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **ZimoPro**
+- 🔭 I’m currently working on **DevThrone**
 
 - 🌱 I’m currently learning **Node, AWS, WordPress**
 
