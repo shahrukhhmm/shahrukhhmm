@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DevThrone**
 
-- 🌱 I’m currently learning **Node, AWS, WordPress**
+- 🌱 I’m currently learning **.netcore**
 
 - 💬 Ask me about **Laravel, PHP, MYSQL, MERN, AWS**
 
